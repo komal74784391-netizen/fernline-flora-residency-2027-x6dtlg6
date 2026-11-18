@@ -38,7 +38,7 @@
 ## Rejected applicants
 
 - Junko Arata — discipline mismatch
-- Imogen Blackwood — no portfolio link
+- Imogen Blackwood — experience not stated
 - Ephrem Tadesse — no portfolio link
 - Sela Whitcombe — not available for the full residency window
 - Filip Dvorak — discipline mismatch
