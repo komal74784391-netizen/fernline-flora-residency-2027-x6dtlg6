@@ -1,0 +1,116 @@
+{
+  "cycle": "Spring 2027 Illustrated Flora Residency",
+  "invited": [
+    {
+      "name": "Priya Raghunathan",
+      "email": "priya.raghunathan@indigofern.example.org",
+      "years_experience": 11,
+      "portfolio_url": "https://indigofern.example.org/priya"
+    },
+    {
+      "name": "Linnea Sorensen",
+      "email": "linnea.sorensen@nordlys-atelier.example.org",
+      "years_experience": 9,
+      "portfolio_url": "https://nordlys-atelier.example.org/linnea"
+    },
+    {
+      "name": "Marisol Vega",
+      "email": "marisol.vega@foothills-atelier.example.org",
+      "years_experience": 8,
+      "portfolio_url": "https://foothills-atelier.example.org/marisol"
+    },
+    {
+      "name": "Teodora Munteanu",
+      "email": "teodora.munteanu@plate-and-petal.example.org",
+      "years_experience": 6,
+      "portfolio_url": "https://plate-and-petal.example.org/teodora"
+    },
+    {
+      "name": "Casimir Okonkwo",
+      "email": "casimir.okonkwo@ink-and-frond.example.org",
+      "years_experience": 5,
+      "portfolio_url": "https://ink-and-frond.example.org/casimir"
+    },
+    {
+      "name": "Rowan Alder",
+      "email": "rowan.alder@sorrelwood.example.org",
+      "years_experience": 4,
+      "portfolio_url": "https://sorrelwood.example.org/rowan"
+    }
+  ],
+  "waitlist": [
+    {
+      "name": "Guillermo Asensio",
+      "email": "guillermo.asensio@tallow-and-quill.example.org",
+      "years_experience": 3,
+      "portfolio_url": "https://tallow-and-quill.example.org/guillermo"
+    }
+  ],
+  "rejected": [
+    {
+      "name": "Junko Arata",
+      "email": "junko.arata@sumida-graphic.example.org",
+      "reason": "discipline mismatch"
+    },
+    {
+      "name": "Imogen Blackwood",
+      "email": "imogen.blackwood@moss-and-marginalia.example.org",
+      "reason": "no portfolio link"
+    },
+    {
+      "name": "Ephrem Tadesse",
+      "email": "ephrem.tadesse@entoto-press.example.org",
+      "reason": "no portfolio link"
+    },
+    {
+      "name": "Sela Whitcombe",
+      "email": "sela.whitcombe@fennel-row.example.org",
+      "reason": "not available for the full residency window"
+    },
+    {
+      "name": "Filip Dvorak",
+      "email": "filip.dvorak@moravian-light.example.org",
+      "reason": "discipline mismatch"
+    },
+    {
+      "name": "Rosalind Achebe",
+      "email": "rosalind.achebe@commonweed.example.org",
+      "reason": "no portfolio link"
+    },
+    {
+      "name": "Hesper Nakashima",
+      "email": "hesper.nakashima@tideloom.example.org",
+      "reason": "not available for the full residency window"
+    },
+    {
+      "name": "Callum Reyes",
+      "email": "callum.reyes@wiregrass.example.org",
+      "reason": "not available for the full residency window"
+    },
+    {
+      "name": "Marta Almeida",
+      "email": "marta.almeida@barro-studio.example.org",
+      "reason": "discipline mismatch"
+    },
+    {
+      "name": "Ondine Marchand",
+      "email": "ondine.marchand@vergerdore.example.org",
+      "reason": "late submission"
+    },
+    {
+      "name": "Alaric Brandt",
+      "email": "alaric.brandt@brackenmoor.example.org",
+      "reason": "late submission"
+    },
+    {
+      "name": "Bartosz Kepinski",
+      "email": "bartosz.kepinski@ostrowicz.example.org",
+      "reason": "late submission"
+    },
+    {
+      "name": "Yara Haddad",
+      "email": "yara.haddad@cedar-and-salt.example.org",
+      "reason": "late submission"
+    }
+  ]
+}
